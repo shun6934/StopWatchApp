@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					21E799DF1E6F8459007E2B8B = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 34BT7MS8WJ;
 						ProvisioningStyle = Automatic;
 					};
 					21E799F31E6F845A007E2B8B = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 34BT7MS8WJ;
 				INFOPLIST_FILE = StopWatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shunichi.StopWatchApp;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 34BT7MS8WJ;
 				INFOPLIST_FILE = StopWatchApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shunichi.StopWatchApp;
@@ -503,6 +506,7 @@
 				21E79A0A1E6F845A007E2B8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		21E79A0B1E6F845A007E2B8B /* Build configuration list for PBXNativeTarget "StopWatchAppTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +515,7 @@
 				21E79A0D1E6F845A007E2B8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		21E79A0E1E6F845A007E2B8B /* Build configuration list for PBXNativeTarget "StopWatchAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +524,7 @@
 				21E79A101E6F845A007E2B8B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
